@@ -4,7 +4,7 @@ using System.Windows.Controls;
 
 namespace SomEnVerschil
 {
-// test
+// test GITHUB
     public partial class MainWindow : Window
     {
         public MainWindow()
